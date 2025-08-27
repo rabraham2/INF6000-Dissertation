@@ -1,0 +1,4 @@
+PaymentMethod,Transaction Count,Proportion (%),Total SalesRevenue (£),Revenue Share (%),Avg Revenue / Tx (£),Median Revenue / Tx (£),Std Revenue / Tx (£)
+Bank Transfer,14874,33.7,14089512.3,33.92,947.26,689.83,854.81
+Credit Card,14671,33.24,13757603.33,33.12,937.74,688.59,849.03
+paypall,14591,33.06,13690613.41,32.96,938.29,695.37,848.4

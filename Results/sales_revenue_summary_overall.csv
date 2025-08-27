@@ -1,0 +1,8 @@
+Metric,Value
+Total Valid Transactions,44136.0
+Mean Sales Revenue (£),941.13
+Median Sales Revenue (£),691.12
+Standard Deviation (£),850.77
+Interquartile Range (£),1140.04
+Minimum Observed Transaction (£),0.05
+Maximum Observed Transaction (£),4703.46
