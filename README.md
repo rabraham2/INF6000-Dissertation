@@ -95,7 +95,7 @@ d)	Do predictive sales models perform consistently across product categories and
 
 3. **Processed and Cleaned Dataet**:
    - The original and unprocessed version of the real dataset can be found in the folder Data in GitHub.
-   - If you need to directly run the processed and clean version of the dataset, use the file in the folder Dataset in GitHub.
+   - If you need to run the processed and clean version of the dataset directly, use the file in the folder Dataset in GitHub.
 
 
 ## Instructions
