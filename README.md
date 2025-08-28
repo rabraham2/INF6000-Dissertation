@@ -93,6 +93,11 @@ d)	Do predictive sales models perform consistently across product categories and
    pip install pandas numpy matplotlib seaborn scikit-learn statsmodels xgboost openpyxl
 ```
 
+3. **Processed and Cleaned Dataet**:
+   - The original and unprocessed version of the real dataset can be found in the folder Data in GitHub.
+   - If you need to directly run the processed and clean version of the dataset, use the file in the folder Dataset in GitHub.
+
+
 ## Instructions
 
 Step 1: Load the Original Dataset
